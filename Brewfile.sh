@@ -1,8 +1,5 @@
 #!/bin/bash
 
-﻿# see https://waka.github.io/2014/1/19/homebrew_cask.html
-# Must momebrew install
-
 # Make sure using latest Homebrew
 brew update
 
@@ -55,5 +52,6 @@ brew cask install adobe-reader
 brew cask install gitter
 brew cask install gyazo #/Applications/Gyazo GIF.app and Gyazo
 brew cask install karabiner # キーボード
+
 # Remove outdated versions
 brew cleanup
