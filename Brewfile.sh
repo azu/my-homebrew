@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -e
 # Make sure using latest Homebrew
 brew update
 
@@ -46,6 +47,7 @@ fc-cache -vf
 brew install brew-cask
 
 # brew-cask
+brew cask install xquartz
 brew cask install google-chrome
 brew cask install virtualbox
 brew cask install adobe-reader
