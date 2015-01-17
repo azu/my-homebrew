@@ -16,6 +16,7 @@ brew install zsh
 brew install zsh-completions
 brew install wget
 brew install tree
+brew install ssed
 # git
 ## oh-my-zsh https://github.com/robbyrussell/oh-my-zsh/issues/1717#issuecomment-22540099
 brew install git --without-completions
