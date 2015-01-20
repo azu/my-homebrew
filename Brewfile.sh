@@ -25,6 +25,7 @@ brew install hub
 brew install git-now
 brew install tig
 
+brew install gibo
 # Util
 brew install ack
 brew install pt # like-grep https://github.com/monochromegane/the_platinum_searcher
