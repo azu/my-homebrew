@@ -57,5 +57,9 @@ brew cask install gitter
 brew cask install gyazo #/Applications/Gyazo GIF.app and Gyazo
 brew cask install karabiner # キーボード
 brew cask install insomniax # No sleep http://www.takemer.info/?p=10
+brew cask install spectacle # ウィンドウ管理
+brew cask install sourcetree # Git GUI
+## editor
+brew cask install mou
 # Remove outdated versions
 brew cleanup
