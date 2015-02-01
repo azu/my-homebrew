@@ -56,6 +56,6 @@ brew cask install adobe-reader
 brew cask install gitter
 brew cask install gyazo #/Applications/Gyazo GIF.app and Gyazo
 brew cask install karabiner # キーボード
-
+brew cask install insomniax # No sleep http://www.takemer.info/?p=10
 # Remove outdated versions
 brew cleanup
