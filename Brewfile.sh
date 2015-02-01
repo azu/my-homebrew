@@ -51,11 +51,12 @@ brew install brew-cask
 # brew-cask
 brew cask install xquartz
 brew cask install google-chrome
+brew cask install google-japanese-ime #IME
 brew cask install virtualbox
 brew cask install adobe-reader
 brew cask install gitter
 brew cask install gyazo #/Applications/Gyazo GIF.app and Gyazo
-brew cask install karabiner # キーボード
+brew cask install karabiner seil # キーボード
 brew cask install insomniax # No sleep http://www.takemer.info/?p=10
 brew cask install spectacle # ウィンドウ管理
 brew cask install sourcetree # Git GUI
